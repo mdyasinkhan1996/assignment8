@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co/2gLrwyJ/book1.png",
+      "review": "In 'The Silent Patient' by Alex Michaelides, readers are thrust into a psychological labyrinth, where silence speaks louder than words. The narrative revolves around Alicia Berenson, a talented artist accused of murdering her husband, Gabriel. What sets this novel apart is its ingenious premise: Alicia hasn't spoken a word since the night of the crime. The protagonist, Theo Faber, a psychotherapist, becomes obsessed with unlocking Alicia's silence, delving deep into her psyche in search of answers. Michaelides crafts a tantalizing web of suspense, deception, and psychological intrigue, keeping readers guessing until the very end. With its expertly plotted twists and richly drawn characters, 'The Silent Patient' is a tour de force in the genre of psychological thrillers.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Thriller",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/KD2PPFw/book2.png",
+      "review": "F. Scott Fitzgerald's 'The Great Gatsby' is a timeless classic that continues to captivate readers with its poignant portrayal of the Jazz Age. Set amidst the opulent backdrop of Long Island, New York, the novel follows the enigmatic Jay Gatsby and his relentless pursuit of the elusive American Dream. Through the eyes of narrator Nick Carraway, readers are drawn into a world of glamour, excess, and disillusionment, where love and ambition collide with devastating consequences. Fitzgerald's prose is lyrical and evocative, painting a vivid portrait of an era defined by wealth, privilege, and moral decay. At its heart, 'The Great Gatsby' is a cautionary tale about the emptiness of materialism and the fleeting nature of happiness, making it a timeless masterpiece that resonates with readers of all generations.",
+      "totalPages": 180,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 3,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/Vv2816r/book3.png",
+      "review": "J.R.R. Tolkien's 'The Hobbit' is a timeless adventure that transports readers to the enchanting world of Middle-earth. The story follows Bilbo Baggins, a hobbit who embarks on a perilous journey to reclaim the lost kingdom of Erebor from the fearsome dragon Smaug. Along the way, Bilbo encounters a colorful cast of characters, including the wise wizard Gandalf and a band of dwarves led by the legendary Thorin Oakenshield. What makes 'The Hobbit' so enduringly popular is Tolkien's masterful storytelling, which blends elements of fantasy, adventure, and mythology into a rich tapestry of imagination. From the lush landscapes of the Shire to the treacherous depths of the Misty Mountains, Tolkien's world-building is second to none, immersing readers in a realm of wonder and danger. With its timeless themes of courage, friendship, and heroism, 'The Hobbit' continues to inspire readers of all ages, making it a true classic of literature.",
+      "totalPages": 310,
+      "rating": 4.7,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Quest"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+    },
+    {
+      "bookId": 4,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/DVsf25F/book4.png",
+      "review": "'To Kill a Mockingbird' by Harper Lee is a poignant and powerful exploration of racial injustice and moral courage in the American South. Set in the fictional town of Maycomb, Alabama, during the 1930s, the novel follows young Scout Finch as she navigates the complexities of race, class, and prejudice. At the heart of the story is Atticus Finch, Scout's father and a principled lawyer who defends a black man falsely accused of raping a white woman. Through Atticus's unwavering integrity and compassion, Lee shines a light on the inherent dignity and worth of every individual, regardless of skin color or social status. 'To Kill a Mockingbird' is a timeless masterpiece that continues to resonate with readers, reminding us of the importance of empathy, tolerance, and standing up for what is right.",
+      "totalPages": 324,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Drama", "Social Commentary"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/h1Ftcz4/book5.png",
+      "review": "'The Catcher in the Rye' by J.D. Salinger is a seminal work of literature that captures the essence of teenage angst and disillusionment. Narrated by the unforgettable Holden Caulfield, the novel follows his journey through the streets of New York City as he grapples with alienation, identity, and the phoniness of the adult world. Salinger's prose is raw and unfiltered, reflecting Holden's irreverent and often cynical worldview. Through Holden's voice, Salinger exposes the hypocrisy and superficiality of society, offering a scathing critique of conformity and materialism. Despite its controversial themes and language, 'The Catcher in the Rye' remains a timeless coming-of-age story that resonates with readers of all generations, capturing the universal struggle to find meaning and authenticity in a world that often seems devoid of both.",
+      "totalPages": 277,
+      "rating": 4.0,
+      "category": "Fiction",
+      "tags": ["Coming-of-age", "Cultural"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 6,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/Ny0Lx0x/book6.png",
+      "review": "'1984' by George Orwell is a chilling dystopian novel that remains as relevant today as it was when it was first published. Set in a totalitarian society ruled by the all-seeing Party, the story follows Winston Smith, a disillusioned bureaucrat who secretly rebels against the oppressive regime. As Winston navigates the surveillance state of Oceania, he grapples with questions of truth, freedom, and individuality in a world where Big Brother controls every aspect of life. Orwell's vision of a dystopian future is hauntingly prescient, offering a stark warning about the dangers of totalitarianism and the erosion of personal liberties. With its searing indictment of authoritarianism and thought control, '1984' remains a powerful testament to the enduring struggle for freedom and human dignity.",
+      "totalPages": 328,
+      "rating": 4.8,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    }
+  ]
+  
