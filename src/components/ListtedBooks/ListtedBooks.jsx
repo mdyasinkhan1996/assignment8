@@ -15,6 +15,13 @@ const ListtedBooks = () => {
         }
     }, []);
 
+    const readBooksData = ()=> {
+        const readLocalStr = getReadBookItems();
+        if(readLocalStr.length > 0){
+            const readBooks = allBooks.filter(book => readLocalStr.includes(book.bookId));
+            setReadData(readBooks);
+        }
+    }
     const wishlistBooks = ()=> {
         const wishLocalStr = getWishBookItems();
         if(wishLocalStr.length > 0){
@@ -39,7 +46,7 @@ const ListtedBooks = () => {
             </div>
             <div>
                 <div className="space-x-6">
-                    <button className="bg-gray-100 py-1 px-4">Read Books</button>
+                    <button onClick={readBooksData} className="bg-gray-100 py-1 px-4">Read Books</button>
                     <button onClick={wishlistBooks} className="bg-gray-100 py-1 px-4">Wishlist Books</button>
                 </div>
                 {
