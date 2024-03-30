@@ -13,7 +13,7 @@ const Book = ({ book }) => {
                 <div className="card-body">
                     <div className="flex gap-4 text-green-500 text-center">
                         {
-                            tags.map(tag => <span className="bg-gray-200 py-1 px-4 rounded-full text-xs">{tag}</span>)
+                            tags.map((tag, idx) => <span key={idx} className="bg-gray-200 py-1 px-4 rounded-full text-xs">{tag}</span>)
                         }
                     </div>
                     <h2 className="card-title">{bookName}</h2>

@@ -28,7 +28,7 @@ const Bookdetails = () => {
                 <div>
                     <span className="font-bold mr-4">Tags</span>
                     {
-                        tags.map(tag => <span className="bg-gray-200 mr-4 text-green-500 py-1 px-4 rounded-full text-xs">{tag}</span>)
+                        tags.map((tag, idx) => <span key={idx} className="bg-gray-200 mr-4 text-green-500 py-1 px-4 rounded-full text-xs">{tag}</span>)
                     }
                 </div>
                 <p><span className="font-bold text-sm">Number of Pages:</span> {totalPages}</p>
